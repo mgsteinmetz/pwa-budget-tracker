@@ -13,13 +13,13 @@
 ## Description
 This is my budget tracker that allows a user to keeo track of their expenses both online, AND offline! Making expenses stress free on the road!
 
-Click [HERE]() to VIEW my deployed application!!
+Click [HERE](https://boiling-citadel-67085.herokuapp.com/) to VIEW my deployed application!!
 
 ## Installation
 To install, travel to my [GitHub](https://github.com/mgsteinmetz) , and use my code! 
 
 ## Usage 
-To USE my application, travel to this link: [app](). From there you should be able to use every feature that is available, and you can start your expenses!
+To USE my application, travel to this link: [app](https://boiling-citadel-67085.herokuapp.com/). From there you should be able to use every feature that is available, and you can start your expenses!
 
 ## License
 My project uses the MIT License
