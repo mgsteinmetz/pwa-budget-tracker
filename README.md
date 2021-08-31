@@ -15,6 +15,11 @@ This is my budget tracker that allows a user to keeo track of their expenses bot
 
 Click [HERE](https://boiling-citadel-67085.herokuapp.com/) to VIEW my deployed application!!
 
+Here is what my site looks like:
+
+<img width="1334" alt="Screen Shot 2021-08-30 at 10 44 31 PM" src="https://user-images.githubusercontent.com/77464741/131438469-6f900f84-8998-4021-a18b-750789a604ca.png">
+
+
 ## Installation
 To install, travel to my [GitHub](https://github.com/mgsteinmetz) , and use my code! 
 
